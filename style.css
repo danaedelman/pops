@@ -1,0 +1,77 @@
+
+html {
+
+}
+body {
+  background-color: black;
+  color: white;
+  /* font-family: 'Lato', sans-serif; */
+  font-family: 'Rancho', cursive;
+}
+
+h1 {
+  text-align: center;
+  font-size: 55px;
+  font-family: 'Abril Fatface', cursive;
+
+}
+
+h1:hover {
+  font-size: 70px;
+  color: #f4dc42;
+  transition: all 50ms ease 0;
+
+}
+
+h3 {
+  text-align: center;
+  font-size: 55px;
+}
+
+p {
+  text-align: center;
+  font-size: 45px;
+}
+
+.prize{
+  text-align: center;
+  font-size: 20px;
+  font-family: Lato, sans-serif;
+
+}
+
+.mov-container {
+ display: flex;
+ justify-content: center;
+}
+
+.email {
+  color: firebrick;
+}
+
+.cs {
+  width: 500px;
+  position: relative;
+  margin: 0 auto;
+  line-height: 23px;
+}
+.cs p{
+  font-family: lato, sans-serif;
+  font-size: 20px;
+}
+
+footer{
+  display: inline-flex;
+  flex: 1;
+  font-family: lato;
+  margin-top: 50px;
+  margin-left: 29px;
+}
+.love {
+  padding-left: 20px;
+}
+
+.red {
+  color: firebrick;
+  
+}
